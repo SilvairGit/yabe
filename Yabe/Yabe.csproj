@@ -100,10 +100,10 @@
     <Compile Include="BACnetBase.cs" />
     <Compile Include="BACnetClient.cs" />
     <Compile Include="BACnetTransport.cs" />
-    <Compile Include="BacnetTransportEthernet.cs" />
+    <Compile Include="BACnetTransportEthernet.cs" />
     <Compile Include="BACnetTransportIPv6.cs" />
     <Compile Include="BACnetTransportSecureConnect.cs" />
-    <Compile Include="BacnetTransportSerial.cs" />
+    <Compile Include="BACnetTransportSerial.cs" />
     <Compile Include="BBMDEditor.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -134,7 +134,7 @@
     <Compile Include="ForeignRegistry.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ForeignRegistry.designer.cs">
+    <Compile Include="ForeignRegistry.Designer.cs">
       <DependentUpon>ForeignRegistry.cs</DependentUpon>
     </Compile>
     <Compile Include="GenericInputBox.cs" />
@@ -148,7 +148,7 @@
     <Compile Include="NotificationEditor.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="NotificationEditor.designer.cs">
+    <Compile Include="NotificationEditor.Designer.cs">
       <DependentUpon>NotificationEditor.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
