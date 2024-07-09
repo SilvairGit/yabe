@@ -25,10 +25,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibBacnet", "CodeExamples\L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaspberrySample", "CodeExamples\RaspberrySample\RaspberrySample.csproj", "{47FC9B60-CC4A-479C-8267-DCEEE53067AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wheather2_to_Bacnet", "CodeExamples\Wheather2_to_Bacnet\Wheather2_to_Bacnet.csproj", "{7995A5E4-3DD5-40DE-BFB4-E9952B095F1F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleDevices", "CodeExamples\MultipleDevices\MultipleDevices.csproj", "{0F730C97-46B1-49BA-8281-232899AA0E5A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
